@@ -1,0 +1,4 @@
+[debug] [learn-ibclient-build] Classpath dependencies List()
+[debug] [learn-ibclient-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'learn-ibclient-build' to '/Users/gbignardi/learn-ibclient/project/.bloop/learn-ibclient-build.json'
+[success] Generated .bloop/learn-ibclient-build.json
